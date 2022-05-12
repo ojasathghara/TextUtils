@@ -7,10 +7,12 @@
 
 <p align="center">
     A text utility app to perform various tasks on a string of text.
-    [Click here to launch the app](https://sheltered-woodland-05182.herokuapp.com)
 <br />
 </p>
 </div>
+<br />
+
+[Click here to launch the app](https://sheltered-woodland-05182.herokuapp.com)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -84,7 +86,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Contact
 
-Ojaswi Athghara - [LinkedIn](https://linkedin.com/in/ojaswi825) [Email](ojaswi.athghara98@gmail.com)
+Ojaswi Athghara - [LinkedIn](https://linkedin.com/in/ojaswi825) | [Email](ojaswi.athghara98@gmail.com)
 
 Project Link: [TextUtils Repo](https://github.com/ojaswi825/TextUtils)
 
