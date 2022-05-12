@@ -7,6 +7,7 @@
 
 <p align="center">
     A text utility app to perform various tasks on a string of text.
+    [Click here to launch the app](https://sheltered-woodland-05182.herokuapp.com)
 <br />
 </p>
 </div>
