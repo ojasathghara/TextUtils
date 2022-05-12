@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">NewsChimp</h3>
+<h3 align="center">TextUtils</h3>
 
 <p align="center">
     A text utility app to perform various tasks on a string of text.
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/ojaswi825/NewsChimp.git
+    git clone https://github.com/ojaswi825/TextUtils.git
     ```
 2. Install NPM packages
     ```sh
@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
     ```
 3. Run on localhost
     ```sh
-    cd NewsChimp
+    cd textutils
     npm run start
     ```
 
@@ -85,6 +85,6 @@ To get a local copy up and running follow these simple example steps.
 
 Ojaswi Athghara - [LinkedIn](https://linkedin.com/in/ojaswi825) [Email](ojaswi.athghara98@gmail.com)
 
-Project Link: [NewsChimp Repo](https://github.com/ojaswi825/NewsChimp)
+Project Link: [TextUtils Repo](https://github.com/ojaswi825/TextUtils)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
