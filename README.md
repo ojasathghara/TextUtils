@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
     ```
 3. Run on localhost
     ```sh
-    cd textutils
+    cd TextUtils
     npm run start
     ```
 
